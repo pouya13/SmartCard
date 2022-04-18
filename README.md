@@ -6,7 +6,7 @@ This project uses the Smart Card Library (SCLib) to send APDU commands to the sm
 # Requirements
 - Arduino IDE
 - Smart Card
-- A printed circuit board (PCB)
+- Printed Circuit Board (PCB)
 
 # PCB
 I have designed a custom Printed Circuit Board (PCB) using Altium Designer to deploy my desired attack. The PCB file is available at the PCB directory.
